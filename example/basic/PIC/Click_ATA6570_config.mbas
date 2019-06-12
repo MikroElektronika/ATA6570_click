@@ -1,0 +1,9 @@
+module Click_ATA6570_config
+
+include Click_ATA6570_types
+
+const
+    _ATA6570_SPI_CFG as uint32_t[4] = (_SPI_MASTER_OSC_DIV64, _SPI_DATA_SAMPLE_MIDDLE, _SPI_CLK_IDLE_LOW, _SPI_HIGH_2_LOW)
+    _ATA6570_UART_CFG as uint32_t[1] = (9600)
+    
+end.

@@ -1,0 +1,17 @@
+#include "Click_ATA6570_types.h"
+
+const uint32_t _ATA6570_SPI_CFG[ 3 ] = 
+{ 
+	_SPI_MASTER_CLK_RATIO_256,
+	_SPI_CFG_POLARITY_IDLE_LOW |
+	_SPI_CFG_PHASE_CAPTURE_FALLING | 
+	_SPI_CFG_SS_AUTO_DISABLE | 
+	_SPI_CFG_FIFO_DISABLE, 
+	_SPI_SS_LINE_NONE 
+};
+
+const uint32_t _ATA6570_UART_CFG[ 1 ] = 
+{
+	9600
+};
+

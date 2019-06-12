@@ -1,0 +1,68 @@
+[DEVICE]
+Name=P18F87K22
+Clock=64000000
+[BUILD_TYPE]
+Value=0
+
+[MEMORY_MODEL]
+Value=0
+[ACTIVE_TAB]
+Value=Click_ATA6570_PIC.c
+[USE_EEPROM]
+Value=0
+[USE_HEAP]
+Value=0
+[HEAP_SIZE]
+Value=0
+[EEPROM_DEFINITION]
+Value=
+[FILES]
+Count=2
+File0=Click_ATA6570_PIC.c
+File1=..\..\..\library\__ata6570_Driver.c
+[BINARIES]
+Count=0
+[IMAGES]
+Count=0
+ActiveImageIndex=-1
+[OPENED_FILES]
+Count=4
+File0=Click_ATA6570_PIC.c
+File1=click_ata6570_config.h
+File2=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Packages\mikroBUS Board Definition API\Uses\easypicpro_v7_P18F87K22.c
+File3=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Packages\mikroBUS Board Definition API\Uses\__epp_18F87K22_GPIO.c
+[EEPROM]
+Count=0
+[ACTIVE_COMMENTS_FILES]
+Count=0
+[OTHER_FILES]
+Count=0
+[SEARCH_PATH]
+Count=6
+Path0=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\
+Path1=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\
+Path2=E:\git\click-boards\ATA6570_Click\SW\example\c\PIC\
+Path3=E:\git\click-boards\ATA6570_Click\SW\library\HAL\
+Path4=E:\git\click-boards\ATA6570_Click\SW\library\
+Path5=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Packages\mikroBUS Board Definition API\Uses\
+[HEADER_PATH]
+Count=4
+Path0=E:\git\click-boards\ATA6570_Click\SW\library\
+Path1=E:\git\click-boards\ATA6570_Click\SW\library\HAL\
+Path2=E:\git\click-boards\ATA6570_Click\SW\example\c\PIC\
+Path3=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Packages\mikroBUS Board Definition API\Uses\
+[HEADERS]
+Count=3
+File0=..\..\..\library\__ata6570_driver.h
+File1=Click_ATA6570_config.h
+File2=Click_ATA6570_types.h
+[PLDS]
+Count=1
+File0=Click_ATA6570.pld
+[Useses]
+Count=3
+File0=easypicpro_v7_P18F87K22
+File1=SPI
+File2=UART
+[EXPANDED_NODES]
+Count=0
