@@ -111,13 +111,6 @@ extern const uint8_t _ATA6570_WKESR ;
 
 extern const uint8_t _ATA6570_DIDR ;
 
-extern const uint8_t _ATA6570_FUDI ;
-extern const uint8_t _ATA6570_FUDO ;
-extern const uint8_t _ATA6570_FUSEL ;
-extern const uint8_t _ATA6570_BGCAL ;
-extern const uint8_t _ATA6570_FRCCAL ;
-extern const uint8_t _ATA6570_HRCCALL ;
-extern const uint8_t _ATA6570_HRCCALH ;
 
 
 

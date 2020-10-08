@@ -105,13 +105,6 @@ extern const uint8_t _ATA6570_WKESR   ;  /**< WAKE Event Status Register */
 
 extern const uint8_t _ATA6570_DIDR    ;  /**< Device ID Register */
 
-extern const uint8_t _ATA6570_FUDI    ;
-extern const uint8_t _ATA6570_FUDO    ;
-extern const uint8_t _ATA6570_FUSEL   ;
-extern const uint8_t _ATA6570_BGCAL   ;
-extern const uint8_t _ATA6570_FRCCAL  ;
-extern const uint8_t _ATA6570_HRCCALL ;
-extern const uint8_t _ATA6570_HRCCALH ;
                                                                        /** @} */
 /** @defgroup ATA6570_OPMODE ATA6570 Operation Modes */                /** @{ */
 

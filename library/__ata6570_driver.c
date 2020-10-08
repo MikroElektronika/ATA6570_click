@@ -73,14 +73,6 @@ const uint8_t _ATA6570_WKESR      = 0x64;
 
 const uint8_t _ATA6570_DIDR       = 0x7E;
 
-const uint8_t _ATA6570_FUDI       = 0x70;
-const uint8_t _ATA6570_FUDO       = 0x71;
-const uint8_t _ATA6570_FUSEL      = 0x72;
-const uint8_t _ATA6570_BGCAL      = 0x73;
-const uint8_t _ATA6570_FRCCAL     = 0x74;
-const uint8_t _ATA6570_HRCCALL    = 0x75;
-const uint8_t _ATA6570_HRCCALH    = 0x76;
-
 const uint8_t _ATA6570_OPMODE_SLEEP  = 0x01; 
 const uint8_t _ATA6570_OPMODE_STBY   = 0x04;
 const uint8_t _ATA6570_OPMODE_NORMAL = 0x07;
